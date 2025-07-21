@@ -2,3 +2,4 @@ ERROR:root:Attempt 1: HTTPSConnectionPool(host='api.twelvedata.com', port=443): 
 INFO:root:Data fetched
 INFO:root:Data fetched
 INFO:root:Data fetched
+INFO:root:Data fetched
