@@ -1,3 +1,4 @@
 ERROR:root:Attempt 1: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /stocks (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x73fd8453d0>: Failed to resolve 'api.twelvedata.com' ([Errno 7] No address associated with hostname)"))
 INFO:root:Data fetched
 INFO:root:Data fetched
+INFO:root:Data fetched
